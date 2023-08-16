@@ -50,8 +50,8 @@ The project consists of the following files and directories:
      <?php
       return [
           'host' => 'localhost',
-          'username' => 'root',
-          'password' => 'root',
+          'username' => 'YOUR_USERNAME',
+          'password' => 'YOUR_PASSWORD',
           'database' => 'user_registration'
       ];
       ?>
